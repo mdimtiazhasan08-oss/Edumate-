@@ -1,0 +1,5 @@
+{
+  "name": "EduMate",
+  "description": "Your ultimate AI study companion for students. Generate quizzes, solve doubts, create routines, and get wellness support in Bengali.",
+  "requestFramePermissions": ["camera"]
+}
